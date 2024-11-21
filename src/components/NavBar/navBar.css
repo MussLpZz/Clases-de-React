@@ -1,0 +1,16 @@
+.nav-bar{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+    border-bottom: 1px solid black;
+}
+.nav-bar-ul{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 25rem;
+}
+li{
+    cursor: pointer;
+}
